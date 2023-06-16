@@ -1,7 +1,5 @@
 # Global Hunger Index Dataset
 
-![Hunger](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbc.com%2F2021%2F07%2F09%2Foxfam-war-covid-and-climate-change-fuel-hunger-crisis-killing-11-every-minute.html&psig=AOvVaw07arakOeNjvV-Af9oMduNF&ust=1686989457282000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD9kc6rx_8CFQAAAAAdAAAAABAR)
-
 This repository contains the Global Hunger Index (GHI) dataset, a comprehensive tool used to assess and rank the state of hunger worldwide. The dataset provides valuable insights into the severity of hunger and malnutrition in various countries, highlighting the challenges faced by populations in accessing sufficient and nutritious food.
 
 ## About the Global Hunger Index
